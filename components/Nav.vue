@@ -1,5 +1,5 @@
 <template>
-    <nav class="bg-green-700 p-8">
+    <nav class="bg-green-300 p-6">
         <ul class="flex justify-evenly text-2xl font-bold">
             <li><NuxtLink class="hover:text-indigo-700" to="/">Home</NuxtLink></li>
             <li><NuxtLink class="hover:text-indigo-700" to="#">Services</NuxtLink></li>
