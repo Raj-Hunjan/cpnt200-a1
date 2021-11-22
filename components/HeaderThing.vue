@@ -6,7 +6,7 @@
            <nuxt-img
         src="images/image4.jpg"
         sizes="sm:400px md:500px lg:600px"
-      /> 
+      />
         </div>
     </header>
 </template>

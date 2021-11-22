@@ -1,5 +1,3 @@
-import { ESLint } from "eslint"
-
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -37,7 +35,7 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
+    '@nuxtjs/tailwindcss'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -58,11 +56,11 @@ export default {
         config.module.rules.push({
           enforce: 'pre',
           test: /\.(js|vue)$/,
-           loader: 'eslint-loader',
-           exclude: /(node-modules)/,
-           options: {
-             fix: true
-           } 
+          loader: 'eslint-loader',
+          exclude: /(node-modules)/,
+          options: {
+            fix: true
+          }
         })
       }
     }
