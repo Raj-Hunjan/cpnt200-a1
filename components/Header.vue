@@ -1,5 +1,12 @@
 <template>
-    <header class="grid justify-items-center pt-9 font-bold-5">
-        <h1>Some Website</h1>
+    <header class="grid justify-items-center p-10 text-5xl font-bold-5">
+        <h1>Some Website about cars and stuff but mostly cars</h1>
+        <div class="lex justify-evenly gap-x-16 gap-y-16 flex-wrap p-12">
+            <!--https://unsplash.com/photos/zNLmojzLlKA-->
+           <nuxt-img
+        src="images/image4.jpg"
+        sizes="sm:300px md:400px lg:500px"
+      /> 
+        </div>
     </header>
 </template>
