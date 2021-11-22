@@ -18,7 +18,8 @@
             "vue/multi-word-component-names": ["error", {
               "ignores": [
                   "gallery",
-                  "index"
+                  "index",
+                  "Tutorial"
               ]
             }],
             "space-before-function-paren": [
