@@ -31,5 +31,18 @@
     "eslint-plugin-vue": "^8.1.1",
     "postcss": "^8.3.5",
     "prettier": "^2.3.2"
-  }
+  },
+  "description": "---",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj-Hunjan/cpnt200-a1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj-Hunjan/cpnt200-a1/issues"
+  },
+  "homepage": "https://github.com/Raj-Hunjan/cpnt200-a1#readme"
 }
