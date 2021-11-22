@@ -5,7 +5,7 @@
             <!--https://unsplash.com/photos/zNLmojzLlKA-->
            <nuxt-img
         src="images/image4.jpg"
-        sizes="sm:300px md:400px lg:500px"
+        sizes="sm:400px md:500px lg:600px"
       /> 
         </div>
     </header>
