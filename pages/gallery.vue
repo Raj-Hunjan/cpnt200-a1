@@ -1,7 +1,7 @@
 <template>
     <div>
-        <Nav/>
+        <NavBar/>
         <GalleryComponent/>
-        <Footer/>
+        <FooterPart/>
     </div>
 </template>
