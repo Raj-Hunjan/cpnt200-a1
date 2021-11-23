@@ -3,7 +3,7 @@
 
 ## Links
 - [My repo](https://github.com/Raj-Hunjan/cpnt200-a1)
-- [Netlify page]()
+- [Netlify page](https://kind-gates-71f7fa.netlify.app/)
 
 ## Code Review
 - I think it was fun working with nuxt, it's definitely gonna take me some time to work with but yeah its pretty cool to work with. One thing I found really annoying was the eslint errors. It was really fustrating cause when you fix one error then another one pops up. But other than that, it was pretty cool to work with.
