@@ -11,6 +11,7 @@
 ## Attributions
 - [Jessica](https://github.com/Enyorose) helped with solving my errors.
 - [Fesal](https://github.com/FesalBadday) helped with some of the code.
+- This [gist](https://gist.github.com/lilyx13/db43759b547b7cf909d4167d0577d482) really helped with setting up nuxt by [Ash](https://gist.github.com/lilyx13)
 - [White car in a garage](https://unsplash.com/photos/m3m-lnR90uM) by [Peter Broomfield](https://unsplash.com/@peterbroomfield).
 - [Black car on freeway](https://unsplash.com/photos/3ZUsNJhi_Ik) by [Campbell](https://unsplash.com/@campful).
 - [A nice looking red car](https://unsplash.com/photos/SHXCj2Syo7c) by [Dillon Kydd](https://unsplash.com/@kyddvisuals).
